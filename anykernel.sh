@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Singularity by Alen24
+kernel.string=Vertigo
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweet
-device.name2=sweetin
-supported.versions=15
+device.name1=lavender
+device.name2=lavenderin
+supported.versions=13 - 15
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
